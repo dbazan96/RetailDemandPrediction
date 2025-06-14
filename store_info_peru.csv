@@ -1,0 +1,21 @@
+Store ID,Region,Store Type,Opening Year,Store Size (m2),Num Employees,Urban/Rural,Has Warehouse
+S001,Lima,Hipermercado,2019,1200,55,Urban,Yes
+S002,Arequipa,Tienda por Departamento,2016,900,40,Urban,No
+S003,Cusco,Tienda de Barrio,2020,120,7,Urban,No
+S004,Trujillo,Online,2021,0,15,Urban,Yes
+S005,Piura,Autoservicio,2018,400,20,Urban,No
+S006,Chiclayo,Hipermercado,2022,1350,60,Urban,Yes
+S007,Iquitos,Tienda de Barrio,2017,150,6,Rural,No
+S008,Tacna,Autoservicio,2020,370,18,Urban,No
+S009,Huancayo,Tienda por Departamento,2015,800,35,Urban,No
+S010,Puno,Hipermercado,2019,1100,48,Rural,Yes
+S011,Lima,Online,2023,0,12,Urban,Yes
+S012,Arequipa,Tienda de Barrio,2016,200,9,Urban,No
+S013,Cusco,Hipermercado,2018,1250,52,Urban,Yes
+S014,Trujillo,Tienda por Departamento,2020,750,32,Urban,No
+S015,Piura,Autoservicio,2021,430,19,Urban,No
+S016,Chiclayo,Online,2022,0,10,Urban,Yes
+S017,Iquitos,Hipermercado,2017,950,42,Rural,Yes
+S018,Tacna,Tienda de Barrio,2019,160,8,Rural,No
+S019,Huancayo,Online,2020,0,13,Urban,Yes
+S020,Puno,Tienda por Departamento,2023,890,38,Rural,No

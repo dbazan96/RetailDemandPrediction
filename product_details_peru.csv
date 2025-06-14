@@ -1,0 +1,25 @@
+Product ID,Product Name,Category,Supplier,Cost,Profit Margin,Advertising Channel
+P0001,Leche Gloria 1L,Groceries,Gloria S.A.,18.35,0.42,TV
+P0002,Arroz Costeño 5kg,Groceries,Alicorp,20.1,0.35,Facebook
+P0003,Azúcar Rubia 1kg,Groceries,Industrias San Miguel,10.5,0.28,Instagram
+P0004,Aceite Primor 1L,Groceries,Alicorp,14.6,0.33,Google Ads
+P0005,Harina Blanca Flor 1kg,Groceries,Ajinomoto del Perú,12.75,0.38,YouTube
+P0006,Muñeca Barbie,Toys,Juguetería D'Carli,25.3,0.51,TV
+P0007,Carro de Juguete Nikko,Toys,Importaciones Apolo,32.4,0.44,Instagram
+P0008,Set de Plastilina Play-Doh,Toys,Distribuidora ToyPlanet,28.9,0.37,Radio
+P0009,Lego Classic,Toys,Didácticos Perú,16.2,0.53,Facebook
+P0010,Juego de Memoria Perú,Toys,Importaciones Apolo,22.75,0.49,YouTube
+P0011,Smartphone Samsung Galaxy A14,Electronics,Samsung Perú,50.0,0.33,Google Ads
+P0012,Laptop Lenovo IdeaPad 3,Electronics,Lenovo Perú,59.9,0.4,TV
+P0013,Audífonos JBL Tune 500,Electronics,Deltron,22.15,0.3,Facebook
+P0014,Smart TV LG 50'',Electronics,LG Perú,58.7,0.43,Instagram
+P0015,Tablet Xiaomi Pad 5,Electronics,Xiaomi Perú,35.8,0.39,YouTube
+P0016,Silla de Oficina Rimax,Furniture,Sodimac,29.95,0.36,Radio
+P0017,Mesa Plegable Promart,Furniture,Promart,31.5,0.45,Instagram
+P0018,Sofá 3 Plazas Rosen,Furniture,Rosen,59.6,0.55,TV
+P0019,Ropero de Melamina 3 puertas,Furniture,Promart,49.8,0.34,Google Ads
+P0020,Cama de 2 Plazas Paraiso,Furniture,Rosen,52.3,0.5,Facebook
+P0021,Casaca Deportiva Marathon,Clothing,Marathon,27.1,0.29,YouTube
+P0022,Polo Básico Tottus,Clothing,Tottus,11.75,0.31,TV
+P0023,Zapatillas Urbanas Bata,Clothing,Bata Perú,33.25,0.47,Instagram
+P0024,Jean Slim Fit Platanitos,Clothing,Platanitos,21.9,0.39,Radio
